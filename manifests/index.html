@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manifests - Crowd Cymru Assets</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .file-item {
+            transition: all 0.2s ease;
+        }
+        .file-item:hover {
+            background-color: rgb(248 250 252);
+        }
+    </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-50">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-slate-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex items-center justify-between">
+                <div>
+                    <nav class="flex items-center space-x-2 text-sm text-slate-600 mb-2">
+                        <a href="../" class="hover:text-blue-600">Home</a>
+                        <span>/</span>
+                        <span class="text-slate-900 font-medium">Manifests</span>
+                    </nav>
+                    <h1 class="text-3xl font-bold text-slate-900">Manifests Collection</h1>
+                    <p class="text-sm text-slate-600 mt-1">IIIF Manifests Repository</p>
+                </div>
+                <a href="../" class="text-blue-600 hover:text-blue-700 flex items-center space-x-1">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                    </svg>
+                    <span>Back to Collections</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        
+        <!-- Collection Info -->
+        <div class="bg-white rounded-xl shadow-md border border-slate-200 p-6 mb-8">
+            <div class="flex items-start space-x-4">
+                <div class="bg-blue-100 rounded-lg p-3">
+                    <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                    </svg>
+                </div>
+                <div class="flex-1">
+                    <h2 class="text-xl font-semibold text-slate-900 mb-2">General Manifests</h2>
+                    <p class="text-slate-600">This collection contains various IIIF manifests for digital assets. Each manifest follows the IIIF Presentation API specification and can be used with any IIIF-compatible viewer.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Files List -->
+        <div class="bg-white rounded-xl shadow-md border border-slate-200 overflow-hidden">
+            <div class="bg-slate-50 px-6 py-4 border-b border-slate-200">
+                <h3 class="text-lg font-semibold text-slate-900">Available Manifests</h3>
+                <p class="text-sm text-slate-600 mt-1">Click on any file to view or download</p>
+            </div>
+            
+            <div class="divide-y divide-slate-200">
+                <!-- File items will be added here manually -->
+                <!-- Example file item (copy this structure for each file): -->
+                
+                <!--
+                <a href="./example-manifest.json" class="file-item block px-6 py-4 hover:bg-slate-50">
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-3">
+                            <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                            </svg>
+                            <div>
+                                <p class="text-sm font-medium text-slate-900">example-manifest.json</p>
+                                <p class="text-xs text-slate-500">IIIF Manifest v3</p>
+                            </div>
+                        </div>
+                        <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </div>
+                </a>
+                -->
+                
+                <!-- Add your manifest files here following the pattern above -->
+              <a href="./example-manifest.json" class="file-item block px-6 py-4 hover:bg-slate-50">
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center space-x-3">
+                            <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                            </svg>
+                            <div>
+                                <p class="text-sm font-medium text-slate-900">cardiffEdwardThomasBottomly.json</p>
+                                <p class="text-xs text-slate-500">IIIF Manifest v3, Cardiff University Speciall Collections,  Edward Thomas Bottomly Papers</p>
+                            </div>
+                        </div>
+                        <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    </div>
+                </a>
+                
+                <!--<div class="px-6 py-8 text-center text-slate-500">
+                    <svg class="w-12 h-12 mx-auto text-slate-300 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"></path>
+                    </svg>
+                    <p class="text-sm">No manifests added yet</p>
+                    <p class="text-xs mt-1">Files will be listed here as they are added to the repository</p>
+                </div> -->
+                
+            </div>
+        </div>
+
+        <!-- Instructions -->
+        <div class="mt-8 bg-blue-50 rounded-lg p-6 border border-blue-200">
+            <h4 class="text-sm font-semibold text-blue-900 mb-2">How to add manifests:</h4>
+            <ol class="text-sm text-blue-800 space-y-1 list-decimal list-inside">
+                <li>Place your IIIF manifest JSON files in this folder</li>
+                <li>Edit this index.html file to add file entries</li>
+                <li>Copy the commented example structure for each new file</li>
+                <li>Update the href, filename, and description for each entry</li>
+            </ol>
+        </div>
+        
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-auto bg-white border-t border-slate-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex items-center justify-between">
+                <p class="text-sm text-slate-600">© 2024 Crowd Cymru. All rights reserved.</p>
+                <div class="flex space-x-6">
+                    <a href="https://iiif.io/" target="_blank" class="text-sm text-slate-500 hover:text-slate-700">IIIF Standards</a>
+                    <a href="https://github.com" target="_blank" class="text-sm text-slate-500 hover:text-slate-700">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
