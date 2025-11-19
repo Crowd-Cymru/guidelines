@@ -1,0 +1,800 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://crowd-cymru.github.io/guidelines/manifests/cardiffEdwardThomasBottomly.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Edward Thomas Literary Archive - Bottomly Papers"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136660002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136680002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136690002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136720002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136740002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136760002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136780002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136800002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136820002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136840002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136860002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136880002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136900002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136920002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136940002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136960002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206136980002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137000002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137020002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137040002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137060002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137080002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137100002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137120002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137140002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137160002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137180002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137200002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137220002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137240002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137260002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137280002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137300002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137320002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137340002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137360002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137380002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137400002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137420002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137440002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137460002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137480002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137500002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137520002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137540002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137560002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137580002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137600002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137620002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137640002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137660002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137680002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137700002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137720002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137740002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137760002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137780002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137800002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137820002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137840002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137860002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137880002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137900002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137920002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137940002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137960002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206137980002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206138000002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206138020002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206138040002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206138060002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206138080002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206138100002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150130002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150150002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150170002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150190002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150210002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150230002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150250002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150270002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150290002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150310002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150330002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150350002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150370002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150390002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150410002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150430002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150450002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150470002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150490002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150510002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150530002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150550002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150570002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150590002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150610002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150630002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150650002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150670002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150690002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150710002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150730002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150750002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150770002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150790002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150810002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150830002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150850002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150870002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150890002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150910002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150930002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150950002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150970002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206150990002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206151010002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206151030002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206151050002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185120002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185140002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185160002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185180002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185200002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185220002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185240002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185260002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185280002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185300002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185320002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185340002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185360002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185380002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185400002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185420002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185440002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185460002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185480002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185500002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185520002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185540002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185560002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185580002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185600002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185620002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185640002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185660002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185680002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185700002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185720002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185740002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185760002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185780002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185800002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185820002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185840002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185860002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185880002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185900002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185920002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185940002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185960002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206185980002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186000002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186020002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186040002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186060002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186080002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186100002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186120002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186140002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186160002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186180002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186200002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186220002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186240002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186260002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186280002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186290002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186320002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186340002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186360002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186380002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186400002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186420002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186440002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186460002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186480002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186500002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186520002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186540002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186560002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186580002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186600002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186620002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12206186640002420/manifest?iiifversion=2",
+      "type": "Manifest"
+    }
+  ]
+}
