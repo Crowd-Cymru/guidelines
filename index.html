@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crowd Cymru Assets</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .tile-hover {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .tile-hover:hover {
+            transform: translateY(-4px);
+        }
+    </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-50">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-slate-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold text-slate-900">Crowd Cymru Assets</h1>
+                    <p class="text-sm text-slate-600 mt-1">Digital Asset Repository</p>
+                </div>
+                <div class="text-sm text-slate-500">
+                    IIIF Collections & Manifests
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div class="mb-8">
+            <h2 class="text-2xl font-semibold text-slate-800 mb-2">Collections</h2>
+            <p class="text-slate-600">Browse available IIIF collections and manifests</p>
+        </div>
+
+        <!-- Tiles Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            
+            <!-- Manifests Tile -->
+            <a href="./manifests/" class="tile-hover block">
+                <div class="bg-white rounded-xl shadow-md hover:shadow-xl border border-slate-200 overflow-hidden">
+                    <div class="bg-gradient-to-r from-blue-500 to-blue-600 h-32 flex items-center justify-center">
+                        <svg class="w-16 h-16 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-semibold text-slate-900 mb-2">Manifests</h3>
+                        <p class="text-slate-600 text-sm">General IIIF manifests collection</p>
+                        <div class="mt-4 flex items-center text-blue-600 text-sm font-medium">
+                            <span>Browse collection</span>
+                            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Edward Thomas Tile -->
+            <a href="./edward-thomas/" class="tile-hover block">
+                <div class="bg-white rounded-xl shadow-md hover:shadow-xl border border-slate-200 overflow-hidden">
+                    <div class="bg-gradient-to-r from-emerald-500 to-teal-600 h-32 flex items-center justify-center">
+                        <svg class="w-16 h-16 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                        </svg>
+                    </div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-semibold text-slate-900 mb-2">Edward Thomas</h3>
+                        <p class="text-slate-600 text-sm">Literary archive collection</p>
+                        <div class="mt-4 flex items-center text-emerald-600 text-sm font-medium">
+                            <span>Browse collection</span>
+                            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+        </div>
+
+        <!-- Info Section -->
+        <div class="mt-16 bg-white rounded-xl shadow-md border border-slate-200 p-8">
+            <h3 class="text-lg font-semibold text-slate-900 mb-3">About This Repository</h3>
+            <p class="text-slate-600 leading-relaxed">
+                This repository hosts IIIF (International Image Interoperability Framework) collections and manifests 
+                for the Crowd Cymru project. These digital assets include various Welsh cultural heritage materials 
+                and literary archives, formatted according to IIIF standards for interoperability and preservation.
+            </p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-auto bg-white border-t border-slate-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex items-center justify-between">
+                <p class="text-sm text-slate-600">© 2024 Crowd Cymru. All rights reserved.</p>
+                <div class="flex space-x-6">
+                    <a href="https://iiif.io/" target="_blank" class="text-sm text-slate-500 hover:text-slate-700">IIIF Standards</a>
+                    <a href="https://github.com" target="_blank" class="text-sm text-slate-500 hover:text-slate-700">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
