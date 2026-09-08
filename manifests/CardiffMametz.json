@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "https://crowd-cymru.github.io/guidelines/manifests/cardiffMametz.json",
+  "id": "https://crowd-cymru.github.io/guidelines/manifests/CardiffMametz.json",
   "type": "Collection",
   "label": {
     "en": [
